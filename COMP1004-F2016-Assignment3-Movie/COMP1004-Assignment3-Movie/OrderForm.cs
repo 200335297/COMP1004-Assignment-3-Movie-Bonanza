@@ -119,7 +119,7 @@ namespace COMP1004_Assignment3_Movie
 
         private void printToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Your receipt is being printed!", "Movie Bananza");
+            MessageBox.Show("Your receipt is being printed!", "Print Movie");
 
         }
 
