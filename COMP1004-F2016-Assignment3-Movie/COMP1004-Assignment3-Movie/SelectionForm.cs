@@ -28,7 +28,7 @@ namespace COMP1004_Assignment3_Movie
         {
             NextButton.Enabled = true;
             TitleTextBox.Text = Convert.ToString(SelectionListBox.Text);
-            getPictures();
+            showPictures();
             SetInfo();
             SaveInfo();
 
@@ -137,7 +137,7 @@ namespace COMP1004_Assignment3_Movie
         }
 
         //Get the pictures for each title
-        public void getPictures()
+        public void showPictures()
         {
 
             if (TitleTextBox.Text == "Cedar Rapids")
