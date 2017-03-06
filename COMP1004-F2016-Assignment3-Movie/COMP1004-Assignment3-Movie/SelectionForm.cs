@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 // Name: Gowtham Talluri
 // Student #: 200335297
-// Description: This form is about the Order form
+// Description: This form is about Order form
 // Date: march 5th 2017
 
 namespace COMP1004_Assignment3_Movie
