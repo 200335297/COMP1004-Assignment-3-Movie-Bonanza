@@ -82,7 +82,7 @@
             this.OrderPictureBox.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.OrderPictureBox.Location = new System.Drawing.Point(10, 133);
             this.OrderPictureBox.Name = "OrderPictureBox";
-            this.OrderPictureBox.Size = new System.Drawing.Size(208, 231);
+            this.OrderPictureBox.Size = new System.Drawing.Size(224, 234);
             this.OrderPictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.OrderPictureBox.TabIndex = 4;
             this.OrderPictureBox.TabStop = false;
