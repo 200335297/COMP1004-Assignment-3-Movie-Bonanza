@@ -136,8 +136,7 @@ namespace COMP1004_Assignment3_Movie
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Developer: Gowtham Talluri" + "\r\n" +
-                "Version: 3.1.1" + "\r\n" + "Website: www.moviebonanza.com" + "\r\n" +
-                "About");
+                "Version: 3.1.1" + "\r\n" + "Website: www.moviecinema.com");
         }
 
 
