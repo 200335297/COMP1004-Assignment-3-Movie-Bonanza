@@ -205,7 +205,7 @@
             this.NextButton.Font = new System.Drawing.Font("Times New Roman", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.NextButton.Location = new System.Drawing.Point(524, 325);
             this.NextButton.Name = "NextButton";
-            this.NextButton.Size = new System.Drawing.Size(82, 33);
+            this.NextButton.Size = new System.Drawing.Size(81, 33);
             this.NextButton.TabIndex = 4;
             this.NextButton.Text = "Next";
             this.NextButton.UseVisualStyleBackColor = false;
